@@ -1,0 +1,10 @@
+{
+  "appId": "com.thesystem.player",
+  "appName": "The System",
+  "webDir": "www",
+  "backgroundColor": "#02060d",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_system", "iconColor": "#2F8CFF" }
+  }
+}
